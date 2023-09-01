@@ -1,5 +1,5 @@
 # Temperature Converter
-The Temperature Converter is a simple web application that allows users to convert temperatures between Celsius and Fahrenheit units. This project was developed using HTML, CSS, and JavaScript and is designed to provide a user-friendly interface for quick and accurate temperature conversions.
+The Temperature Converter is a simple web application that allows users to convert temperatures between Celsius and Fahrenheit units. This project is developed using HTML, CSS, and JavaScript and is designed to provide a user-friendly interface for quick and accurate temperature conversions.
 
 ## Features
 - Convert Celsius to Fahrenheit: Enter a temperature in Celsius, click the "Convert to Fahrenheit" button, and the corresponding Fahrenheit temperature will be displayed instantly.
